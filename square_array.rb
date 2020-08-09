@@ -2,9 +2,8 @@ numbers = [1, 2, 3]
 
 def square_array(numbers)
   numbers.each do |number|
-    new_number = number ** 2
-    numbers.shift
-    numbers.unshift(new_number)
+    numbers.unshift(number ** 2)
+    
   end
 end
 
