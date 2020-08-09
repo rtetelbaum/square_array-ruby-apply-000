@@ -7,3 +7,6 @@ def square_array(numbers)
 end
 
 square_array(numbers)
+
+new_numbers = Array.new
+
