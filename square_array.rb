@@ -7,3 +7,5 @@ def square_array(numbers)
     new_numbers.fill(number)
   end
 end
+
+square_array(numbers)
