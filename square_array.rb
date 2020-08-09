@@ -6,3 +6,5 @@ def square_array(numbers)
     puts "#{number}"
   end
 end
+
+square_array(numbers)
