@@ -8,4 +8,6 @@ def square_array(numbers)
   end
 end
 
+new_numbers[]
+
 square_array(numbers)
