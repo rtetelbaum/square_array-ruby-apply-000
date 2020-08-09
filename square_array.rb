@@ -3,7 +3,7 @@ numbers = [1, 2, 3]
 def square_array(numbers)
   numbers.each do |number|
     numbers.unshift(number ** 2)
-    numbers.delete_at(1)
+    numbers.delete_at(2)
   end
 end
 
