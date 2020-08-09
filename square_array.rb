@@ -8,6 +8,6 @@ def square_array(numbers)
   end
 end
 
-new_numbers = []
+new_numbers = [nil]
 
 square_array(numbers)
